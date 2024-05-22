@@ -1,0 +1,60 @@
+.navbar-brand,
+.navbar-brand:hover {
+    color: #BF915A;
+    font-family: "Libre Bodoni", serif;
+    font-size: 24px;
+    margin: 0px;
+}
+
+.nav .nav-link.active,
+#fale-conosco button {
+    background-color: #BF915A;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #EAEAEA;
+}
+
+.nav .nav-link,
+p {
+    color: #1C3A65;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.section-title {
+    color: #BF915A;
+    font-family: "Libre Bodoni", serif;
+}
+
+.cor-azul {
+    color: #1C3A65;
+}
+
+h5 {
+    color: #1C3A65;
+}
+
+#eventos {
+    background-color: #ecdcc8;
+}
+
+.social-links li {
+    display: inline;
+    list-style: none;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
